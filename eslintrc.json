@@ -26,6 +26,10 @@
       "error",
       "stroustrup"
     ],
+    "comma-dangle": [
+      "error",
+      "never"
+    ],
     "curly": [
       "warn",
       "multi-or-nest"
