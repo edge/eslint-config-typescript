@@ -1,0 +1,17 @@
+{
+  "name": "@edge/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "ESLint config for Edge TypeScript projects",
+  "main": "index.js",
+  "author": "Edge Network <core@edge.network>",
+  "contributors": [
+    "Aneurin \"Anny\" Barker Snook <aneurin@edge.network>"
+  ],
+  "license": "unlicensed",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.0",
+    "@typescript-eslint/parser": "^4.0.0",
+    "eslint": "^7.0.0",
+    "typescript": "^4.0.0"
+  }
+}
