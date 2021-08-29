@@ -6,10 +6,10 @@ ESLint config for Edge TypeScript projects.
 
 ## Usage
 
-Install to your npm project using a [GitHub URL-style dependency](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#github-urls):
+Install to your npm project using a [GitHub dependency](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#github-urls):
 
 ```bash
-npm i --save-dev '@edge/eslint-config-typescript:edge/eslint-config-typescript#v1'
+npm i --save-dev edge/eslint-config-typescript#v1
 ```
 
 This package specifies peer dependencies, which [you may need to add manually to your project](https://nodejs.org/en/blog/npm/peer-dependencies/). To do so, run the following in shell at your npm project root:
