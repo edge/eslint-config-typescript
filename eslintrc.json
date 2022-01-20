@@ -44,8 +44,7 @@
       "never"
     ],
     "curly": [
-      "warn",
-      "multi-or-nest"
+      "off"
     ],
     "eol-last": [
       "error",
