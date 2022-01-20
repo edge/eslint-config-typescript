@@ -1,6 +1,6 @@
 {
   "name": "@edge/eslint-config-typescript",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint config for Edge TypeScript projects",
   "main": "index.js",
   "author": "Edge Network <core@edge.network>",
